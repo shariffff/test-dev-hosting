@@ -1,4 +1,4 @@
 <?php
 
 // Silence is golden 
-// Test again as known host updated
+// SSH key updated to ed25519
